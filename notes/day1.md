@@ -1,4 +1,4 @@
 # Day 1
 
-- Goal: finish local Git basics
+- Goal: master branches and pull requests
 - Done: init, add, commit
